@@ -1,4 +1,5 @@
 
+
 vector<int> findAnagrams(string s, string p) {
     // Result vector to store starting indices of anagrams in `s`
     vector<int> result;
